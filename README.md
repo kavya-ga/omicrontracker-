@@ -7,4 +7,4 @@
  1. Azure bot service
  2. Azure blob storage 
  3. Azure storage account
- 3. Azure static web app
+ 3. Azure static website
